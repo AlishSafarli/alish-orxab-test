@@ -3,6 +3,7 @@
   margin: 0 auto;
   background: #d6eaf8;
   height: auto;
+  padding: 15px 0; 
 }
 .flex {
   display: flex;
